@@ -67,7 +67,7 @@ plt.show()
 O script importa OpenCV, NumPy e Matplotlib, essenciais para lidar com imagens armazenadas como matrizes.
 
 ✔ 2. Leitura da imagem  
-`cv2.imread()\` carrega o arquivo `imagem.png` para um array NumPy.
+`cv2.imread()` carrega o arquivo `imagem.png` para um array NumPy.
 
 ✔ 3. Conversão de BGR para RGB  
 OpenCV trabalha com BGR, enquanto Matplotlib usa RGB.  
